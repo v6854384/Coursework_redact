@@ -50,8 +50,8 @@ NF
 X=10
 Y=0
 while x>0
-y=y+x
-x=x-1
+Y=Y+X
+X=X-1
 End
 Y
 Результат 55
